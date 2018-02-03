@@ -4,7 +4,7 @@
 
 # Edit ~/.bash_profile 
 
-export GOPATH=/Users/username/go
+export GOPATH=/Users/username/go <p>
 export PATH=$GOPATH/bin:$PATH
 
 # Reload profile : source ~/.bash_profile
