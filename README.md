@@ -9,6 +9,8 @@ Chaincode is a program, written in Go that implements a prescribed interface. Ev
 <p>
 A chaincode typically handles business logic agreed to by members of the network, so it similar to a “smart contract”. Ledger state created by a chaincode is scoped exclusively to that chaincode and can’t be accessed directly by another chaincode. Given the appropriate permission, a chaincode may invoke another chaincode to access its state within the same network.
 
+[Develop Chaincode video](https://www.youtube.com/watch?v=5AtAA9ZMAA4)
+
 <p>
   Architecture.
 The  validating  peers  run  a  BFT  consensus  protocol  for  executing  a  replicated  state
