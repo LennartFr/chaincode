@@ -6,7 +6,7 @@
 
 # Step1 
 
-## Edit ~/.bash_profile 
+Edit ~/.bash_profile 
 
 export GOPATH=/Users/username/go <p>
 export PATH=$GOPATH/bin:$PATH
