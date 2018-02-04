@@ -3,9 +3,6 @@
 ## Step 1 [What is Chaincode?](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#what-is-chaincode)
 ## Step 2 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
 
-[Install Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
-[What is Chaincode?](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#what-is-chaincode)
-
 ~~~
 Edit ~/.bash_profile 
 
