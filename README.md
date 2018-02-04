@@ -15,4 +15,7 @@ export PATH=$GOPATH/bin:$PATH
 Reload profile : source ~/.bash_profile
 ~~~
 
-# Step 2 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
+## Step 2 [What is Chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#what-is-chaincode)
+## Step 3 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
+
+
