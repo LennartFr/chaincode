@@ -13,4 +13,4 @@ export PATH=$GOPATH/bin:$PATH
 
 # Reload profile : source ~/.bash_profile
 
-# Step 2 [](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
+# Step 2 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
