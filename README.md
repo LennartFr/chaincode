@@ -32,7 +32,7 @@ Reload profile : source ~/.bash_profile
 ### [Terminal 2 - Build & start the chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#terminal-2-build-start-the-chaincode)
 ### [Terminal 3 - Use the chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#terminal-3-use-the-chaincode)
 
-# Step 3: testing the Chaicode
+# Step 3: testing the Chaincode
 ### [Testing new Chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#testing-new-chaincode)
 
 
