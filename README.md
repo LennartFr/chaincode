@@ -6,11 +6,13 @@
 
 # Step1 
 
+~~~
 Edit ~/.bash_profile 
 
-export GOPATH=/Users/username/go <p>
+export GOPATH=/Users/username/go 
 export PATH=$GOPATH/bin:$PATH
 
-# Reload profile : source ~/.bash_profile
+Reload profile : source ~/.bash_profile
+~~~
 
 # Step 2 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
