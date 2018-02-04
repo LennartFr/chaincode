@@ -1,6 +1,7 @@
 # Chaincode
 
-## Step 1 [What is Chaincode?](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#what-is-chaincode)
+## Step 2 [Learn Chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode)
+## [What is Chaincode?](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#what-is-chaincode)
 ## [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
 
 ~~~
