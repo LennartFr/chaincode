@@ -1,6 +1,6 @@
 # Chaincode
 
-## Step 2 [Learn Chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode)
+## Step 1 [Learn Chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode)
 ## [What is Chaincode?](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#what-is-chaincode)
 ## [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/release/samples.html)
 
@@ -21,7 +21,7 @@ Reload profile : source ~/.bash_profile
 ### [Invoking the Chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#invoking-the-chaincode)
 ### [Implementing the Chaincode Application](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#implementing-the-chaincode-application)
 
-# Step: Putting it all together
+# Step 2: Putting it all together
 
 ### [Putting it All Together ](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#pulling-it-all-together)
 ### [Building Chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#building-chaincode)
