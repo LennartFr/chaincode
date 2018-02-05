@@ -64,6 +64,8 @@ Reload profile : source ~/.bash_profile
 ### [Invoking the Chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#invoking-the-chaincode)
 ### [Implementing the Chaincode Application](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#implementing-the-chaincode-application)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Step 2: Putting it all together
 
 ### [Putting it All Together ](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#pulling-it-all-together)
@@ -74,6 +76,8 @@ Reload profile : source ~/.bash_profile
 ### [Terminal 1 Start the Network](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#terminal-1-start-the-network)
 ### [Terminal 2 - Build & start the chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#terminal-2-build-start-the-chaincode)
 ### [Terminal 3 - Use the chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#terminal-3-use-the-chaincode)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Step 3: testing the Chaincode
 ### [Testing new Chaincode](http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.html#testing-new-chaincode)
